@@ -56,7 +56,7 @@ Explorador de dados, apaixonado por tecnologia e soluções inteligentes. Transf
 
 ## 💡 Inspirando-me
 
-*Transforme dados em histórias. Transforme desafios em oportunidades. Transforme o mundo com tecnologia.* – José Bernardo  
+Transforme dados em histórias. Transforme desafios em oportunidades. Transforme o mundo com tecnologia. – José Bernardo  
 
 ---
 
