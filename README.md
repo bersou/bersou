@@ -1,4 +1,4 @@
-# Olá, sou José Bernardo (bersou)! 🤠
+# Olá, sou José Bernardo (bersou)! 🤖
 
 Explorador de dados, apaixonado por tecnologia e soluções inteligentes. Transformando números em insights e desafios em oportunidades com o poder da inteligência.
 
