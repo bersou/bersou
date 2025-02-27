@@ -1,10 +1,10 @@
-# Olá, sou José Bernardo (bersou)! 🤖
+# 👋 Olá, eu sou José Bernardo (bersou)!
 
 Explorador de dados, apaixonado por tecnologia e soluções inteligentes. Transformando números em insights e desafios em oportunidades com o poder da inteligência.
 
 ---
 
-## 🌐 Sobre Mim
+## 📌 Sobre Mim
 
 - **Localização:** Gravataí, Rio Grande do Sul  
 - **Interesses:** Análise de dados, inteligência artificial, aprendizado de máquina, programação  
@@ -12,6 +12,8 @@ Explorador de dados, apaixonado por tecnologia e soluções inteligentes. Transf
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> Python  
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30"/> HTML  
   - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30"/> CSS  
+  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30"/> React  
+  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30"/> C#  
 
 ---
 
@@ -22,8 +24,10 @@ Explorador de dados, apaixonado por tecnologia e soluções inteligentes. Transf
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python | Avançado |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML | Intermediário |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS | Intermediário |
-| 🤖 Inteligência Artificial | Em aprendizado contínuo |
-| 📊 Análise de Dados | Avançado |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React | Básico |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20"/> Inteligência Artificial | Em aprendizado contínuo |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Análise de Dados | Avançado |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20"/> C# | Intermediário |
 
 ---
 
@@ -56,8 +60,19 @@ Explorador de dados, apaixonado por tecnologia e soluções inteligentes. Transf
 
 ## 💡 Inspirando-me
 
-Transforme dados em histórias. Transforme desafios em oportunidades. Transforme o mundo com tecnologia. – José Bernardo  
+*"Transforme dados em histórias. Transforme desafios em oportunidades. Transforme o mundo com tecnologia."*  
+– **_José Bernardo_**  
 
 ---
 
 **Obrigado por visitar meu perfil! Vamos construir o futuro juntos? 🚀**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Bersou-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bersou-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bersou-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Bersou-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Bersou-Tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Bersou-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Bersou-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
