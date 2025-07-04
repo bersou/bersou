@@ -7,6 +7,9 @@ from typing import Optional, List
 
 TOGETHER_API_KEY = "389e606346808577896b61b1aacf75d01295f375f4efe8c182b166e6e270e32e"
 
+(Opcional) chave da OpenWeatherMap, se quiser usar futuramente
+OPENWEATHER_API_KEY = "43947567d93c8fba85322709ac1bb2ca"
+
 class TogetherLLM(LLM):
     model: str = "mistralai/Mixtral-8x7B-Instruct-v0.1"
     temperature: float = 0.7
