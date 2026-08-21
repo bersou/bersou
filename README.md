@@ -169,7 +169,7 @@ bersou@data-core:~$ █
 
 <!-- GITHUB STATS -->
 <img width="49%" src="https://github-stats-extended.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bersou&theme=transparent&hide_border=true&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=555555&background=0d1117" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=bersou&theme=transparent&hide_border=true&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=555555&background=0d1117" />
 
 <br><br>
 
