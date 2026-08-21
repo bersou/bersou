@@ -1,78 +1,69 @@
-# 👋 Olá, eu sou José Bernardo (bersou)!
+<div align="center">
 
-Explorador de dados, apaixonado por tecnologia e soluções inteligentes. Transformando números em insights e desafios em oportunidades com o poder da inteligência.
+# `[ DATA_EXPLORER : BERSOU ]`
 
----
+<br>
 
-## 📌 Sobre Mim
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00c853&height=200&section=header&text=DATA_CORE_INIT&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" />
 
-- **Localização:** Gravataí, Rio Grande do Sul  
-- **Interesses:** Análise de dados, inteligência artificial, aprendizado de máquina, programação  
-- **Línguas Mais Usadas:**
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30"/> Python  
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="30"/> HTML  
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="30"/> CSS  
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30"/> React  
-  - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30"/> C#  
+</div>
 
----
-
-## 🛠️ Habilidades
-
-| Tecnologia               | Nível                  |
-|--------------------------|------------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python | Avançado |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20"/> HTML | Intermediário |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20"/> CSS | Intermediário |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> React | Básico |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20"/> Inteligência Artificial | Em aprendizado contínuo |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="20"/> Análise de Dados | Avançado |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="20"/> C# | Intermediário |
+### `01 // SYSTEM_IDENTITY`
+```json
+const bersou = {
+  role: "Explorador de Dados",
+  location: "Gravataí, Rio Grande do Sul",
+  interests: ["Data Analysis", "Artificial Intelligence", "Machine Learning", "Programming"],
+  objective: "Transformando números em insights e desafios em oportunidades com o poder da inteligência."
+};
+```
 
 ---
 
-## 📊 Minhas Contribuições
+### `02 // TECH_STACK`
 
-- **13 contribuições no último ano**  
-- Repositórios principais:
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Motivação, Tecnologia e Programação" width="350"/>
-</p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
----
+<!-- Exemplos extras na área de dados (Remova ou adicione se preferir): -->
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=sql&logoColor=white)
 
-## 🔗 Conecte-se Comigo
-
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/> LinkedIn](https://www.linkedin.com/in/jos%C3%A9moraesbernardo/)  
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="20"/> Facebook](https://www.facebook.com/share/15o5Dg3HrH/)  
-- [<img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="20"/> Streamlit](https://share.streamlit.io/user/bersou)  
-
----
-
-## 🎯 Objetivos
-
-- Aprender mais sobre deep learning e suas aplicações.  
-- Contribuir para projetos open-source impactantes.  
-- Criar soluções inovadoras com IA e dados.  
+</div>
 
 ---
 
-## 💡 Inspirando-me
+### `03 // REPOSITORY_LOG`
 
-*"Transforme dados em histórias. Transforme desafios em oportunidades. Transforme o mundo com tecnologia."*  
-– **_José Bernardo_**  
-  
+<div align="center">
+  <!-- Substitua "SEU-MELHOR-REPOSITORIO" pelo nome do repositório que você deseja fixar -->
+  <a href="https://github.com/bersou">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bersou&repo=SEU-MELHOR-REPOSITORIO&theme=tokyonight&show_owner=true" />
+  </a>
+</div>
+
 ---
 
-**Obrigado por visitar meu perfil! Vamos construir o futuro juntos? 🚀**
+### `04 // METRICS_DASHBOARD`
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Bersou-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Bersou-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bersou-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bersou-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Bersou-Tensorflow" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
-  <img align="center" alt="Bersou-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Bersou-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bersou&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bersou&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+### `05 // COMMUNICATION_PROTOCOL`
+
+<div align="center">
+
+<!-- Adicione o seu link do LinkedIn e o seu e-mail nos links abaixo -->
+<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:SEU-EMAIL-AQUI@email.com" target="_blank"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </div>
