@@ -168,41 +168,23 @@ bersou@data-core:~$ █
 <div align="center">
 
 <!-- GITHUB STATS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bersou&theme=transparent&hide_border=true&ring=00c6ff&fire=0072ff&currStreakLabel=00c6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=555555&background=0d1117" />
 
 <br><br>
 
 <!-- TOP LANGUAGES -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bersou&layout=compact&theme=transparent&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bersou&layout=compact&theme=transparent&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
 
 </div>
 
 <br>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 05 : CONTRIBUTION SNAKE -->
+<!-- SECTION 05 : ACTIVITY GRAPH -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/05-CONTRIBUTION__MATRIX-00c6ff?style=flat-square&labelColor=0d1117" />
-
-<br><br>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bersou/bersou/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bersou/bersou/output/github-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/bersou/bersou/output/github-snake.svg" />
-  </picture>
-</div>
-
-<br>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- SECTION 06 : ACTIVITY GRAPH -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/06-ACTIVITY__LOG-00c6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/05-ACTIVITY__LOG-00c6ff?style=flat-square&labelColor=0d1117" />
 
 <br><br>
 
@@ -216,7 +198,7 @@ bersou@data-core:~$ █
 <!-- SECTION 07 : COMMUNICATION PROTOCOL -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://img.shields.io/badge/07-COMMUNICATION__PROTOCOL-00c6ff?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/06-COMMUNICATION__PROTOCOL-00c6ff?style=flat-square&labelColor=0d1117" />
 
 <br><br>
 
