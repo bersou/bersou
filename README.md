@@ -4,7 +4,7 @@
 
 <!-- TYPING SVG ANIMATED -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+DATA_CORE+%3A%3A+INITIALIZING...;%3E+BERSOU+%3A%3A+ONLINE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&[...]"
 </a>
 
 <br>
@@ -17,9 +17,9 @@
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 <!-- SECTION 01 : IDENTITY -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 
 <img src="https://img.shields.io/badge/01-SYSTEM__IDENTITY-00c6ff?style=flat-square&labelColor=0d1117" />
 
@@ -54,9 +54,9 @@ const bersou = {
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 <!-- SECTION 02 : TERMINAL -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 
 <img src="https://img.shields.io/badge/02-DATA__TERMINAL-00c6ff?style=flat-square&labelColor=0d1117" />
 
@@ -95,9 +95,9 @@ bersou@data-core:~$ █
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 <!-- SECTION 03 : TECH STACK -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 
 <img src="https://img.shields.io/badge/03-TECH__STACK-00c6ff?style=flat-square&labelColor=0d1117" />
 
@@ -157,42 +157,60 @@ bersou@data-core:~$ █
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 <!-- SECTION 04 : METRICS DASHBOARD -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 
 <img src="https://img.shields.io/badge/04-METRICS__DASHBOARD-00c6ff?style=flat-square&labelColor=0d1117" />
 
 <br><br>
 
+<!-- Versão enxuta e em português: resumo + detalhes recolhíveis -->
 <div align="center">
 
-<!-- GITHUB STATS -->
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
-<!-- TOP LANGUAGES -->
-<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bersou&layout=compact&theme=transparent&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<p><strong>Painel de métricas</strong></p>
+<p>Resumo rápido das minhas estatísticas no GitHub. Mantive os gráficos detalhados ocultos para reduzir o ruído visual — clique em "Ver métricas detalhadas" se quiser ver os gráficos completos.</p>
+
+<ul style="list-style: none; padding: 0;">
+  <li><strong>Commits:</strong> histórico ativo — foco em projetos pessoais e experimentos.</li>
+  <li><strong>Linguagens principais:</strong> TypeScript, JavaScript, HTML/CSS (visual e front-end).</li>
+  <li><strong>Atividade recente:</strong> contribuições pontuais para projetos e manutenção de repositórios.</li>
+</ul>
+
+<details>
+  <summary><strong>Ver métricas detalhadas</strong></summary>
+
+  <br>
+  <div align="center">
+    <!-- GITHUB STATS -->
+    <img width="49%" src="https://github-stats-extended.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=00c6ff&icon_color=00c6ff&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" />
+    <!-- TOP LANGUAGES -->
+    <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bersou&layout=compact&theme=transparent&hide_border=true&title_color=00c6ff&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top languages" />
+  </div>
+
+</details>
 
 </div>
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 <!-- SECTION 05 : ACTIVITY GRAPH -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 
 <img src="https://img.shields.io/badge/05-ACTIVITY__LOG-00c6ff?style=flat-square&labelColor=0d1117" />
 
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bersou&bg_color=0d1117&color=00c6ff&line=0072ff&point=00c6ff&area_color=0072ff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY%20LOG" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bersou&bg_color=0d1117&color=00c6ff&line=0072ff&point=00c6ff&area_color=0072ff&area=true&hide_border=true&custom_title=CONTRIBUTION+ACTIVITY+LOG" alt="Activity graph" />
 </div>
 
 <br>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 <!-- SECTION 07 : COMMUNICATION PROTOCOL -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ═════════════════════════════════════════════════════════════════[...] -->
 
 <img src="https://img.shields.io/badge/06-COMMUNICATION__PROTOCOL-00c6ff?style=flat-square&labelColor=0d1117" />
 
