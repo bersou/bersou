@@ -34,7 +34,7 @@
 
   <br>
 
-  <!-- QUICK ACTION BUTTONS COM LINKS DIRETOS E PERSONALIZADOS -->
+  <!-- QUICK ACTION BUTTONS COM LINKS DIRETOS E MENSAGENS PERSONALIZADAS -->
   <p align="center">
     <a href="https://wa.me/5551986389656?text=Ol%C3%A1%20Bernardo!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
       <img src="https://img.shields.io/badge/WhatsApp-ff6a00?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=c95000" alt="WhatsApp" />
@@ -44,7 +44,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-111519?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=05080b" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:josemoraesbernardo@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=josemoraesbernardo@gmail.com&su=Contato%20via%20GitHub%20-%20Oportunidade%20%2F%20Parceria&body=Ol%C3%A1%20Bernardo,%0A%0AVi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-111519?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=05080b" alt="Gmail" />
     </a>
     &nbsp;
@@ -79,7 +79,7 @@
       <h4>🛠️ Pilares de Especialidade</h4>
       <ul>
         <li>📊 <b>Data Science & Analytics:</b> Análise exploratória (EDA), visualização e geração de insights com Python.</li>
-        <li>🤖 <b>IA & Machine Learning:</b> Modelagem preditiva, classificação e fluxos automatizados.</li>
+        <li>🤖 <b>IA & Machine Learning:</b> Modelagem preditiva, visão computacional e automações inteligentes.</li>
         <li>💻 <b>Full Stack Web:</b> Interfaces modernas com React, Vite, Tailwind CSS e TypeScript.</li>
         <li>🗄️ <b>Database & Backend:</b> Modelagem relacional em PostgreSQL e serviços com C#.</li>
       </ul>
@@ -115,7 +115,7 @@
 
 | Categoria | Tecnologias & Ferramentas |
 | :--- | :--- |
-| **Data Science & AI** | `Python` `Pandas` `NumPy` `Scikit-Learn` `Jupyter Notebook` `Matplotlib` |
+| **Data Science & AI** | `Python` `Pandas` `NumPy` `Scikit-Learn` `MediaPipe (AI)` `Jupyter Notebook` |
 | **Front-End & UI** | `React.js` `TypeScript` `JavaScript (ES6+)` `Tailwind CSS` `HTML5` `CSS3` |
 | **Back-End & Data** | `C# / .NET` `PostgreSQL` `RESTful APIs` `Node.js` |
 | **DevOps & Ferramentas** | `Docker` `Git` `GitHub Actions` `Linux` `VS Code` `Figma` |
@@ -133,85 +133,85 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <!-- PROJETO 1 -->
+      <!-- PROJETO 1: COLORPOP AI -->
       <td width="50%" valign="top" style="padding: 16px;">
         <div align="center">
-          <img src="https://img.shields.io/badge/WEB_APP-REACT_+_VITE-ff6a00?style=flat-square&labelColor=05080b" alt="Tag" />
-          <img src="https://img.shields.io/badge/STATUS-LIVE-25D366?style=flat-square&labelColor=05080b" alt="Live" />
+          <img src="https://img.shields.io/badge/AI_COMPUTER_VISION-MEDIAPIPE-ff6a00?style=flat-square&labelColor=05080b" alt="Tag" />
+          <img src="https://img.shields.io/badge/PWA-OFFLINE-25D366?style=flat-square&labelColor=05080b" alt="Live" />
         </div>
-        <h3 align="center">🛒 Super-Lista</h3>
+        <h3 align="center">⚡ ColorPop AI (PWA)</h3>
         <p align="center" style="font-size: 13.5px; color: #777;">
-          Aplicação web moderna para gerenciamento de compras e finanças pessoais. Permite controle de quantidade, categorização, análise de gastos e compartilhamento via WhatsApp.
+          Aplicação de edição fotográfica inteligente utilizando <b>Inteligência Artificial (MediaPipe)</b> rodando 100% no navegador. Destaca o assunto principal automaticamente e converte o plano de fundo para P&B em tempo real.
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/React-111519?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TailwindCSS-111519?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
+          <img src="https://img.shields.io/badge/AI_MediaPipe-111519?style=flat-square&logo=google&logoColor=EA4335" />
           <img src="https://img.shields.io/badge/JavaScript-111519?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/PWA-111519?style=flat-square&logo=pwa&logoColor=5A0FC8" />
         </p>
         <p align="center">
-          <a href="https://github.com/bersou/Super-Lista"><b>Acessar Repositório →</b></a>
+          <a href="https://github.com/bersou/colorpop-pwa"><b>Acessar Repositório →</b></a>
         </p>
       </td>
-      <!-- PROJETO 2 -->
+      <!-- PROJETO 2: PAINEL INDUSTRIAL 4.0 COM IA ORION -->
       <td width="50%" valign="top" style="padding: 16px;">
         <div align="center">
-          <img src="https://img.shields.io/badge/SINGLE_PAGE_APP-REACT-ff6a00?style=flat-square&labelColor=05080b" alt="Tag" />
+          <img src="https://img.shields.io/badge/INDUSTRY_4.0-IA_ORION-ff6a00?style=flat-square&labelColor=05080b" alt="Tag" />
           <img src="https://img.shields.io/badge/DEPLOY-ONLINE-25D366?style=flat-square&labelColor=05080b" alt="Live" />
         </div>
-        <h3 align="center">🌹 Velvet Studio (MicroSass)</h3>
+        <h3 align="center">🏭 Painel de Controle 4.0 (IA Orion)</h3>
         <p align="center" style="font-size: 13.5px; color: #777;">
-          Solução web moderna desenvolvida para digitalizar e agilizar o processo de agendamento e apresentação de serviços estéticos de forma responsiva.
+          Painel de Controle de Setores (PCS) para a Indústria 4.0 integrado ao <b>Assistente de IA Orion</b>. Simulação completa de chão de fábrica, monitoramento de KPIs em tempo real e relatórios operacionais.
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/React-111519?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TailwindCSS-111519?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
-          <img src="https://img.shields.io/badge/HTML5-111519?style=flat-square&logo=html5&logoColor=E34F26" />
+          <img src="https://img.shields.io/badge/AI_Assistant-111519?style=flat-square&logo=openai&logoColor=412991" />
+          <img src="https://img.shields.io/badge/JavaScript-111519?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/HTML5/CSS3-111519?style=flat-square&logo=html5&logoColor=E34F26" />
         </p>
         <p align="center">
-          <a href="https://bersou.github.io/MicroSass/"><b>Ver Demonstração Online →</b></a> • 
-          <a href="https://github.com/bersou/MicroSass"><b>Repositório →</b></a>
+          <a href="https://bersou.github.io/Painel-De-Monitoramento/"><b>Ver Demonstração Online →</b></a> • 
+          <a href="https://github.com/bersou/Painel-De-Monitoramento"><b>Repositório →</b></a>
         </p>
       </td>
     </tr>
     <tr>
-      <!-- PROJETO 3 -->
+      <!-- PROJETO 3: LOGISYNC PAINEL LOGÍSTICO -->
       <td width="50%" valign="top" style="padding: 16px;">
         <div align="center">
-          <img src="https://img.shields.io/badge/ANALYTICS-KPIS_%26_METRICS-ff6a00?style=flat-square&labelColor=05080b" alt="Tag" />
-          <img src="https://img.shields.io/badge/DEPLOY-PAGES-25D366?style=flat-square&labelColor=05080b" alt="Pages" />
+          <img src="https://img.shields.io/badge/LOGISTICS-WMS_%2F_TMS-ff6a00?style=flat-square&labelColor=05080b" alt="Tag" />
+          <img src="https://img.shields.io/badge/DEPLOY-NETLIFY-25D366?style=flat-square&labelColor=05080b" alt="Live" />
         </div>
-        <h3 align="center">📊 Painel de Monitoramento</h3>
+        <h3 align="center">📦 LogiSync (Gestão Logística)</h3>
         <p align="center" style="font-size: 13.5px; color: #777;">
-          Dashboard interativo com indicadores de desempenho (KPIs), métricas consolidadas e relatórios visuais orientados a dados.
+          Sistema executivo de gerenciamento logístico com interface Mobile-First. Desenvolvido para oferecer controle centralizado em tempo real de operações, frotas, movimentações e estoques.
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/JavaScript-111519?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-          <img src="https://img.shields.io/badge/CSS3-111519?style=flat-square&logo=css3&logoColor=1572B6" />
-          <img src="https://img.shields.io/badge/HTML5-111519?style=flat-square&logo=html5&logoColor=E34F26" />
+          <img src="https://img.shields.io/badge/TailwindCSS-111519?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
+          <img src="https://img.shields.io/badge/Netlify-111519?style=flat-square&logo=netlify&logoColor=00C7B7" />
         </p>
         <p align="center">
-          <a href="https://bersou.github.io/Painel-De-Monitoramento/"><b>Acessar Painel Online →</b></a> • 
-          <a href="https://github.com/bersou/Painel-De-Monitoramento"><b>Repositório →</b></a>
+          <a href="https://logisync.netlify.app/"><b>Acessar Sistema Online →</b></a> • 
+          <a href="https://github.com/bersou/Painel-Logistica"><b>Repositório →</b></a>
         </p>
       </td>
-      <!-- PROJETO 4 -->
+      <!-- PROJETO 4: LUXURY PROPERTY -->
       <td width="50%" valign="top" style="padding: 16px;">
         <div align="center">
-          <img src="https://img.shields.io/badge/INDUSTRY-AUTOMATION-ff6a00?style=flat-square&labelColor=05080b" alt="Tag" />
-          <img src="https://img.shields.io/badge/DEPLOY-ONLINE-25D366?style=flat-square&labelColor=05080b" alt="Pages" />
+          <img src="https://img.shields.io/badge/PREMIUM_UI-TYPESCRIPT-ff6a00?style=flat-square&labelColor=05080b" alt="Tag" />
+          <img src="https://img.shields.io/badge/DEPLOY-VERCEL-25D366?style=flat-square&labelColor=05080b" alt="Live" />
         </div>
-        <h3 align="center">⚙️ Automação Industrial</h3>
+        <h3 align="center">💎 Luxury Property</h3>
         <p align="center" style="font-size: 13.5px; color: #777;">
-          Interface de controle e integração para automação de processos industriais, conectando tecnologia e produtividade operacional.
+          Aplicação web de alta performance desenvolvida para o mercado imobiliário de alto padrão. Arquitetura modular, tipagem estrita com TypeScript e estética visual refinada.
         </p>
         <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-111519?style=flat-square&logo=html5&logoColor=E34F26" />
-          <img src="https://img.shields.io/badge/CSS3-111519?style=flat-square&logo=css3&logoColor=1572B6" />
-          <img src="https://img.shields.io/badge/JavaScript-111519?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+          <img src="https://img.shields.io/badge/TypeScript-111519?style=flat-square&logo=typescript&logoColor=007ACC" />
+          <img src="https://img.shields.io/badge/React-111519?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Vercel-111519?style=flat-square&logo=vercel&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://bersou.github.io/Projeto-De-Automacao-Industrial/"><b>Ver Demonstração Online →</b></a> • 
-          <a href="https://github.com/bersou/Projeto-De-Automacao-Industrial"><b>Repositório →</b></a>
+          <a href="https://luxury-propertys.vercel.app/"><b>Ver Demonstração Online →</b></a> • 
+          <a href="https://github.com/bersou/Luxury_Property"><b>Repositório →</b></a>
         </p>
       </td>
     </tr>
@@ -233,7 +233,7 @@
         <span style="color: #ff6a00; font-size: 12px;"><b>2024 — Presente • Projetos & Soluções Digitais</b></span>
       </p>
       <p style="font-size: 13.5px; color: #777;">
-        Desenvolvimento de aplicações web completas, arquitetura de interfaces reativas com React e TypeScript, além de pipelines de análise exploratória e preditiva de dados com Python.
+        Desenvolvimento de aplicações web completas, arquitetura de interfaces reativas com React e TypeScript, além de pipelines de análise exploratória e inteligência artificial aplicada.
       </p>
       <p>
         <code>React</code> <code>TypeScript</code> <code>Python</code> <code>PostgreSQL</code> <code>TailwindCSS</code>
@@ -244,7 +244,7 @@
         <span style="color: #ff6a00; font-size: 12px;"><b>Soluções Sob Medida & Painéis Operacionais</b></span>
       </p>
       <p style="font-size: 13.5px; color: #777;">
-        Criação de dashboards gerenciais de KPIs em tempo real, sistemas SPA para agendamento e automação de fluxos operacionais.
+        Criação de dashboards gerenciais de KPIs em tempo real, sistemas SPA para agendamento e automação de fluxos operacionais industriais.
       </p>
       <p>
         <code>JavaScript</code> <code>HTML5/CSS3</code> <code>APIs REST</code> <code>Docker</code> <code>Git</code>
@@ -257,7 +257,7 @@
         <span style="color: #ff6a00; font-size: 12px;"><b>Especialização Prática</b></span>
       </p>
       <p style="font-size: 13px; color: #777;">
-        Estatística descritiva e inferencial, Machine Learning com Scikit-Learn, manipulação de grandes volumes com Pandas/NumPy e visualização analítica.
+        Estatística descritiva e inferencial, Machine Learning com Scikit-Learn, manipulação de dados com Pandas/NumPy, visão computacional e modelos preditivos.
       </p>
       <hr>
       <p>
@@ -311,7 +311,7 @@
 
   <br>
 
-  <!-- BOTÕES DE CONTATO DIRETOS COM LINKS REAIS -->
+  <!-- BOTÕES DE CONTATO DIRETOS COM LINKS REAIS E MENSAGENS PRONTAS -->
   <a href="https://wa.me/5551986389656?text=Ol%C3%A1%20Bernardo!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-0c0f12?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=0c0f12" alt="WhatsApp" />
   </a>
@@ -320,7 +320,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0c0f12?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0c0f12" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:josemoraesbernardo@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=josemoraesbernardo@gmail.com&su=Contato%20via%20GitHub%20-%20Oportunidade%20%2F%20Parceria&body=Ol%C3%A1%20Bernardo,%0A%0AVi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar!" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-0c0f12?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0c0f12" alt="Gmail" />
   </a>
   &nbsp;
