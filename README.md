@@ -1,6 +1,6 @@
-<!-- HEADER BANNER : CYBER DARK & NEON ORANGE -->
+<!-- HEADER BANNER : FAST CYBER WAVE & NEON ORANGE -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080b,40:111519,80:ff6a00,100:ff8a1f&height=220&section=header&text=JOS%C3%89%20BERNARDO&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=DATA%20EXPLORER%20%E2%80%A2%20AI%20ENTHUSIAST%20%E2%80%A2%20FULL%20STACK&descSize=16&descAlignY=64&descColor=ff8a1f" alt="Banner Header" />
+  <img width="100%" src="https://raw.githubusercontent.com/bersou/bersou/main/assets/header-banner.svg" alt="Banner Header" />
 </p>
 
 <div align="center">
@@ -337,7 +337,7 @@
 
 <br>
 
-<!-- FOOTER BANNER -->
+<!-- FOOTER BANNER (FAST CYBER WAVE) -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080b,40:111519,80:ff6a00,100:ff8a1f&height=120&section=footer" alt="Footer Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/bersou/bersou/main/assets/footer-banner.svg" alt="Footer Banner" />
 </p>
