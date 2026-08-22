@@ -1,13 +1,13 @@
-<!-- HEADER BANNER : DARK & ORANGE GLOW -->
+<!-- HEADER BANNER : CYBER DARK & NEON ORANGE -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080b,45:111519,85:ff6a00,100:ff8a1f&height=200&section=header&text=&fontSize=0" alt="Banner Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:05080b,35:111519,75:ff6a00,100:ff8a1f&height=220&section=header&text=JOS%C3%89%20BERNARDO&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=DATA%20EXPLORER%20%E2%80%A2%20AI%20ENTHUSIAST%20%E2%80%A2%20FULL%20STACK&descSize=16&descAlignY=68&descColor=ff6a00" alt="Banner Header" />
 </p>
 
 <div align="center">
 
   <!-- CYBER BEAR MASCOT EMBLEM (BERNARDO :: FORTE COMO UM URSO) -->
   <a href="https://github.com/bersou">
-    <img src="https://raw.githubusercontent.com/bersou/bersou/main/assets/cyber-bear.jpg" width="220" height="220" style="border-radius: 50%; border: 3px solid #ff6a00; box-shadow: 0 0 25px rgba(255, 106, 0, 0.45);" alt="Cyber Bear Emblem" />
+    <img src="https://raw.githubusercontent.com/bersou/bersou/main/assets/cyber-bear.jpg" width="220" height="220" style="border-radius: 50%; border: 3px solid #ff6a00; box-shadow: 0 0 30px rgba(255, 106, 0, 0.5);" alt="Cyber Bear Emblem" />
   </a>
 
   <br><br>
@@ -18,9 +18,9 @@
 
   <br><br>
 
-  <!-- TYPING SVG ANIMATED (SEM SOBREPOSIÇÃO, EFEITO SUAVE E DEFINIDO) -->
+  <!-- TYPING SVG ANIMATED (TERMINAL STYLE, FLUIDO E SEM SOBREPOSIÇÃO) -->
   <a href="https://github.com/bersou">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=2800&pause=1200&color=FF6A00&center=true&vCenter=true&width=650&height=55&lines=JOS%C3%89+BERNARDO;Data+Explorer+%26+AI+Enthusiast;Full+Stack+Developer;Transformando+Dados+em+Intelig%C3%AAncia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=1200&color=FF6A00&background=0C0F1200&center=true&vCenter=true&width=680&height=50&lines=%3E+JOS%C3%89+BERNARDO+%7C+DATA+%26+AI;%3E+DATA_EXPLORER+%3A%3A+ONLINE;%3E+FULL_STACK_DEVELOPER;%3E+TRANSFORMANDO+DADOS+EM+INSIGHTS" alt="Typing SVG" />
   </a>
 
   <!-- SUBTITLE & STACK BULLETS -->
@@ -34,22 +34,22 @@
 
   <br>
 
-  <!-- QUICK ACTION BUTTONS (SEM EXIBIR DADOS EXPLÍCITOS NO TEXTO) -->
+  <!-- QUICK ACTION BUTTONS COM LINKS DIRETOS E PERSONALIZADOS -->
   <p align="center">
-    <a href="mailto:josemoraesbernardo@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-ff6a00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c95000" alt="Gmail" />
+    <a href="https://wa.me/5551986389656?text=Ol%C3%A1%20Bernardo!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-ff6a00?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=c95000" alt="WhatsApp" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/bersou" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-111519?style=for-the-badge&logo=linkedin&logoColor=ff6a00&labelColor=05080b" alt="LinkedIn" />
+    <a href="https://www.linkedin.com/in/josemoraesbernardo/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-111519?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=05080b" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="https://github.com/bersou" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-111519?style=for-the-badge&logo=github&logoColor=ff8a1f&labelColor=05080b" alt="GitHub" />
+    <a href="mailto:josemoraesbernardo@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-111519?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=05080b" alt="Gmail" />
     </a>
     &nbsp;
     <a href="#-projetos-em-destaque">
-      <img src="https://img.shields.io/badge/Projetos-111519?style=for-the-badge&logo=codeforces&logoColor=ff8a1f&labelColor=05080b" alt="Projetos" />
+      <img src="https://img.shields.io/badge/Projetos-111519?style=for-the-badge&logo=github&logoColor=ff8a1f&labelColor=05080b" alt="Projetos" />
     </a>
   </p>
 
@@ -222,18 +222,42 @@
 
 ---
 
-### 📈 Estatísticas & Atividade
+### 🏛️ Diretrizes & Metodologia de Engenharia
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4 align="center">🔍 Análise Orientada a Dados</h4>
+      <p align="center" style="font-size: 13px; color: #a6a6a6;">
+        Decisões embasadas em coleta estruturada, limpeza rigorosa, modelagem estatística e visualização clara de padrões.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚡ Código Limpo & Modular</h4>
+      <p align="center" style="font-size: 13px; color: #a6a6a6;">
+        Arquitetura escalável com componentização eficiente em React, tipagem estrita em TypeScript e boas práticas de SOLID.
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4 align="center">⚙️ Automação & Eficiência</h4>
+      <p align="center" style="font-size: 13px; color: #a6a6a6;">
+        Fluxos otimizados com integração contínua, conteinerização com Docker e interfaces intuitivas focadas na entrega de valor.
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+### 📊 Visão Geral do GitHub
 
 <div align="center">
 
   <!-- GITHUB STATS & TOP LANGS VIA GITHUB-STATS-EXTENDED -->
   <img width="49%" src="https://github-stats-extended.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=ff6a00&icon_color=ff8a1f&text_color=f4f4f4&bg_color=0c0f12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bersou&layout=compact&theme=transparent&hide_border=true&title_color=ff6a00&text_color=f4f4f4&bg_color=0c0f12&langs_count=6" alt="Top Languages" />
-
-  <br><br>
-
-  <!-- ACTIVITY GRAPH COM GRADIENTE LARANJA -->
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=bersou&bg_color=0c0f12&color=ff6a00&line=ff6a00&point=ff8a1f&area_color=ff6a00&area=true&hide_border=true&custom_title=HIST%C3%93RICO+DE+CONTRIBUI%C3%87%C3%95ES" alt="Activity Graph" />
 
 </div>
 
@@ -248,17 +272,21 @@
 
   <br>
 
-  <!-- BOTÕES DE CONTATO LIMPOS (SEM ENDEREÇO VISÍVEL NO TEXTO) -->
-  <a href="mailto:josemoraesbernardo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-0c0f12?style=for-the-badge&logo=gmail&logoColor=ff6a00&color=0c0f12" alt="Gmail" />
+  <!-- BOTÕES DE CONTATO DIRETOS COM LINKS REAIS -->
+  <a href="https://wa.me/5551986389656?text=Ol%C3%A1%20Bernardo!%20Vi%20seu%20perfil%20no%20GitHub%20e%20gostaria%20de%20conversar." target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0c0f12?style=for-the-badge&logo=whatsapp&logoColor=25D366&color=0c0f12" alt="WhatsApp" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/bersou" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0c0f12?style=for-the-badge&logo=linkedin&logoColor=ff6a00&color=0c0f12" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/josemoraesbernardo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0c0f12?style=for-the-badge&logo=linkedin&logoColor=0077B5&color=0c0f12" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:josemoraesbernardo@gmail.com?subject=Contato%20via%20GitHub" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0c0f12?style=for-the-badge&logo=gmail&logoColor=EA4335&color=0c0f12" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://github.com/bersou" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0c0f12?style=for-the-badge&logo=github&logoColor=ff6a00&color=0c0f12" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0c0f12?style=for-the-badge&logo=github&logoColor=ffffff&color=0c0f12" alt="GitHub" />
   </a>
 
   <br><br>
