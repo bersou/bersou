@@ -34,18 +34,22 @@
 
   <br>
 
-  <!-- QUICK ACTION BUTTONS -->
+  <!-- QUICK ACTION BUTTONS (SEM EXIBIR DADOS EXPLÍCITOS NO TEXTO) -->
   <p align="center">
     <a href="mailto:josemoraesbernardo@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Enviar_E--mail-ff6a00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c95000" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-ff6a00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=c95000" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/bersou" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-111519?style=for-the-badge&logo=linkedin&logoColor=ff6a00&labelColor=05080b" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/bersou" target="_blank">
-      <img src="https://img.shields.io/badge/Perfil_GitHub-111519?style=for-the-badge&logo=github&logoColor=ff6a00&labelColor=05080b" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-111519?style=for-the-badge&logo=github&logoColor=ff8a1f&labelColor=05080b" alt="GitHub" />
     </a>
     &nbsp;
     <a href="#-projetos-em-destaque">
-      <img src="https://img.shields.io/badge/Ver_Projetos-111519?style=for-the-badge&logo=codeforces&logoColor=ff8a1f&labelColor=05080b" alt="Projetos" />
+      <img src="https://img.shields.io/badge/Projetos-111519?style=for-the-badge&logo=codeforces&logoColor=ff8a1f&labelColor=05080b" alt="Projetos" />
     </a>
   </p>
 
@@ -237,19 +241,24 @@
 
 ---
 
-### 📬 Vamos Conversar?
+### 📬 Conecte-se Comigo
 
 <div align="center">
   <p>Sinta-se à vontade para se conectar, trocar ideias sobre dados/IA ou discutir novas oportunidades e projetos.</p>
 
   <br>
 
+  <!-- BOTÕES DE CONTATO LIMPOS (SEM ENDEREÇO VISÍVEL NO TEXTO) -->
   <a href="mailto:josemoraesbernardo@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-josemoraesbernardo@gmail.com-0c0f12?style=for-the-badge&logo=gmail&logoColor=ff6a00&color=0c0f12" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-0c0f12?style=for-the-badge&logo=gmail&logoColor=ff6a00&color=0c0f12" alt="Gmail" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/bersou" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0c0f12?style=for-the-badge&logo=linkedin&logoColor=ff6a00&color=0c0f12" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/bersou" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-bersou-0c0f12?style=for-the-badge&logo=github&logoColor=ff6a00&color=0c0f12" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0c0f12?style=for-the-badge&logo=github&logoColor=ff6a00&color=0c0f12" alt="GitHub" />
   </a>
 
   <br><br>
