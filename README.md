@@ -1,9 +1,16 @@
 <!-- HEADER BANNER : DARK & ORANGE GLOW -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080b,45:111519,85:ff6a00,100:ff8a1f&height=220&section=header&text=&fontSize=0" alt="Banner Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080b,45:111519,85:ff6a00,100:ff8a1f&height=200&section=header&text=&fontSize=0" alt="Banner Header" />
 </p>
 
 <div align="center">
+
+  <!-- CYBER BEAR MASCOT EMBLEM (BERNARDO :: FORTE COMO UM URSO) -->
+  <a href="https://github.com/bersou">
+    <img src="https://raw.githubusercontent.com/bersou/bersou/main/assets/cyber-bear.jpg" width="220" height="220" style="border-radius: 50%; border: 3px solid #ff6a00; box-shadow: 0 0 25px rgba(255, 106, 0, 0.45);" alt="Cyber Bear Emblem" />
+  </a>
+
+  <br><br>
 
   <!-- STATUS PILL & LOCATION (STYLE DO PORTFÓLIO) -->
   <img src="https://img.shields.io/badge/%E2%97%8F_DISPON%C3%8DVEL_PARA_PROJETOS-05080b?style=for-the-badge&logoColor=ff6a00&labelColor=05080b&color=ff6a00" alt="Status" />
@@ -11,9 +18,9 @@
 
   <br><br>
 
-  <!-- TYPING SVG ANIMATED (LARANJA + BRANCO) -->
+  <!-- TYPING SVG ANIMATED (SEM SOBREPOSIÇÃO, EFEITO SUAVE E DEFINIDO) -->
   <a href="https://github.com/bersou">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=34&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=JOS%C3%89+BERNARDO;Data+Explorer+%26+AI+Enthusiast;Full+Stack+Developer;Transformando+Dados+em+Intelig%C3%AAncia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=30&duration=2800&pause=1200&color=FF6A00&center=true&vCenter=true&width=650&height=55&lines=JOS%C3%89+BERNARDO;Data+Explorer+%26+AI+Enthusiast;Full+Stack+Developer;Transformando+Dados+em+Intelig%C3%AAncia" alt="Typing SVG" />
   </a>
 
   <!-- SUBTITLE & STACK BULLETS -->
@@ -53,7 +60,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🦊 Perfil & Atuação</h4>
+      <h4>🐻 Perfil & Atuação</h4>
       <p>
         Sou entusiasta de tecnologia e inovação com foco contínuo em <b>Ciência de Dados</b>, <b>Inteligência Artificial</b> e <b>Desenvolvimento Full Stack</b>.
       </p>
@@ -215,9 +222,9 @@
 
 <div align="center">
 
-  <!-- GITHUB STATS & TOP LANGS CUSTOM DARK/ORANGE THEME -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=ff6a00&icon_color=ff8a1f&text_color=f4f4f4&bg_color=0c0f12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bersou&layout=compact&theme=transparent&hide_border=true&title_color=ff6a00&text_color=f4f4f4&bg_color=0c0f12&langs_count=6" alt="Top Languages" />
+  <!-- GITHUB STATS & TOP LANGS VIA GITHUB-STATS-EXTENDED -->
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=ff6a00&icon_color=ff8a1f&text_color=f4f4f4&bg_color=0c0f12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bersou&layout=compact&theme=transparent&hide_border=true&title_color=ff6a00&text_color=f4f4f4&bg_color=0c0f12&langs_count=6" alt="Top Languages" />
 
   <br><br>
 
