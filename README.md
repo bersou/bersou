@@ -1,13 +1,13 @@
 <!-- HEADER BANNER : CYBER DARK & NEON ORANGE -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:05080b,35:111519,75:ff6a00,100:ff8a1f&height=220&section=header&text=JOS%C3%89%20BERNARDO&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=DATA%20EXPLORER%20%E2%80%A2%20AI%20ENTHUSIAST%20%E2%80%A2%20FULL%20STACK&descSize=16&descAlignY=68&descColor=ff6a00" alt="Banner Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080b,40:111519,80:ff6a00,100:ff8a1f&height=220&section=header&text=JOS%C3%89%20BERNARDO&fontSize=46&fontColor=ffffff&fontAlignY=42&desc=DATA%20EXPLORER%20%E2%80%A2%20AI%20ENTHUSIAST%20%E2%80%A2%20FULL%20STACK&descSize=16&descAlignY=64&descColor=ff8a1f" alt="Banner Header" />
 </p>
 
 <div align="center">
 
-  <!-- CYBER BEAR MASCOT EMBLEM (BERNARDO :: FORTE COMO UM URSO) -->
+  <!-- CYBER BEAR MASCOT EMBLEM (TRANSPARENT CIRCULAR BADGE) -->
   <a href="https://github.com/bersou">
-    <img src="https://raw.githubusercontent.com/bersou/bersou/main/assets/cyber-bear.jpg" width="220" height="220" style="border-radius: 50%; border: 3px solid #ff6a00; box-shadow: 0 0 30px rgba(255, 106, 0, 0.5);" alt="Cyber Bear Emblem" />
+    <img src="https://raw.githubusercontent.com/bersou/bersou/main/assets/cyber-bear.png" width="220" height="220" alt="Cyber Bear Emblem" />
   </a>
 
   <br><br>
@@ -28,7 +28,7 @@
     <strong>Python</strong> • <strong>Scikit-Learn</strong> • <strong>React</strong> • <strong>TypeScript</strong> • <strong>PostgreSQL</strong> • <strong>Machine Learning</strong>
   </p>
 
-  <p align="center" style="max-width: 650px; color: #a6a6a6;">
+  <p align="center" style="max-width: 650px; color: #777;">
     <i>"Transformando números em insights e desafios em oportunidades com o poder da inteligência artificial e engenharia de software."</i>
   </p>
 
@@ -140,7 +140,7 @@
           <img src="https://img.shields.io/badge/STATUS-LIVE-25D366?style=flat-square&labelColor=05080b" alt="Live" />
         </div>
         <h3 align="center">🛒 Super-Lista</h3>
-        <p align="center" style="font-size: 13.5px; color: #a6a6a6;">
+        <p align="center" style="font-size: 13.5px; color: #777;">
           Aplicação web moderna para gerenciamento de compras e finanças pessoais. Permite controle de quantidade, categorização, análise de gastos e compartilhamento via WhatsApp.
         </p>
         <p align="center">
@@ -159,7 +159,7 @@
           <img src="https://img.shields.io/badge/DEPLOY-ONLINE-25D366?style=flat-square&labelColor=05080b" alt="Live" />
         </div>
         <h3 align="center">🌹 Velvet Studio (MicroSass)</h3>
-        <p align="center" style="font-size: 13.5px; color: #a6a6a6;">
+        <p align="center" style="font-size: 13.5px; color: #777;">
           Solução web moderna desenvolvida para digitalizar e agilizar o processo de agendamento e apresentação de serviços estéticos de forma responsiva.
         </p>
         <p align="center">
@@ -181,7 +181,7 @@
           <img src="https://img.shields.io/badge/DEPLOY-PAGES-25D366?style=flat-square&labelColor=05080b" alt="Pages" />
         </div>
         <h3 align="center">📊 Painel de Monitoramento</h3>
-        <p align="center" style="font-size: 13.5px; color: #a6a6a6;">
+        <p align="center" style="font-size: 13.5px; color: #777;">
           Dashboard interativo com indicadores de desempenho (KPIs), métricas consolidadas e relatórios visuais orientados a dados.
         </p>
         <p align="center">
@@ -201,7 +201,7 @@
           <img src="https://img.shields.io/badge/DEPLOY-ONLINE-25D366?style=flat-square&labelColor=05080b" alt="Pages" />
         </div>
         <h3 align="center">⚙️ Automação Industrial</h3>
-        <p align="center" style="font-size: 13.5px; color: #a6a6a6;">
+        <p align="center" style="font-size: 13.5px; color: #777;">
           Interface de controle e integração para automação de processos industriais, conectando tecnologia e produtividade operacional.
         </p>
         <p align="center">
@@ -222,26 +222,50 @@
 
 ---
 
-### 🏛️ Diretrizes & Metodologia de Engenharia
+### 💼 Trajetória Profissional & Formação
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
-      <h4 align="center">🔍 Análise Orientada a Dados</h4>
-      <p align="center" style="font-size: 13px; color: #a6a6a6;">
-        Decisões embasadas em coleta estruturada, limpeza rigorosa, modelagem estatística e visualização clara de padrões.
+    <td width="55%" valign="top">
+      <h4>⚡ Atuação & Projetos de Engenharia</h4>
+      <p>
+        <b>Desenvolvedor Full Stack & Especialista em Dados</b><br>
+        <span style="color: #ff6a00; font-size: 12px;"><b>2024 — Presente • Projetos & Soluções Digitais</b></span>
+      </p>
+      <p style="font-size: 13.5px; color: #777;">
+        Desenvolvimento de aplicações web completas, arquitetura de interfaces reativas com React e TypeScript, além de pipelines de análise exploratória e preditiva de dados com Python.
+      </p>
+      <p>
+        <code>React</code> <code>TypeScript</code> <code>Python</code> <code>PostgreSQL</code> <code>TailwindCSS</code>
+      </p>
+      <hr>
+      <p>
+        <b>Desenvolvedor de Automações & Sistemas Web</b><br>
+        <span style="color: #ff6a00; font-size: 12px;"><b>Soluções Sob Medida & Painéis Operacionais</b></span>
+      </p>
+      <p style="font-size: 13.5px; color: #777;">
+        Criação de dashboards gerenciais de KPIs em tempo real, sistemas SPA para agendamento e automação de fluxos operacionais.
+      </p>
+      <p>
+        <code>JavaScript</code> <code>HTML5/CSS3</code> <code>APIs REST</code> <code>Docker</code> <code>Git</code>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <h4 align="center">⚡ Código Limpo & Modular</h4>
-      <p align="center" style="font-size: 13px; color: #a6a6a6;">
-        Arquitetura escalável com componentização eficiente em React, tipagem estrita em TypeScript e boas práticas de SOLID.
+    <td width="45%" valign="top">
+      <h4>🎓 Formação & Aprendizado Contínuo</h4>
+      <p>
+        <b>Ciência de Dados & Inteligência Artificial</b><br>
+        <span style="color: #ff6a00; font-size: 12px;"><b>Especialização Prática</b></span>
       </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4 align="center">⚙️ Automação & Eficiência</h4>
-      <p align="center" style="font-size: 13px; color: #a6a6a6;">
-        Fluxos otimizados com integração contínua, conteinerização com Docker e interfaces intuitivas focadas na entrega de valor.
+      <p style="font-size: 13px; color: #777;">
+        Estatística descritiva e inferencial, Machine Learning com Scikit-Learn, manipulação de grandes volumes com Pandas/NumPy e visualização analítica.
+      </p>
+      <hr>
+      <p>
+        <b>Engenharia de Software Full Stack</b><br>
+        <span style="color: #ff6a00; font-size: 12px;"><b>Ecossistema Moderno</b></span>
+      </p>
+      <p style="font-size: 13px; color: #777;">
+        Design patterns, arquitetura de componentes, consumo e estruturação de APIs RESTful e modelagem de banco de dados relacional (PostgreSQL).
       </p>
     </td>
   </tr>
@@ -251,15 +275,30 @@
 
 ---
 
-### 📊 Visão Geral do GitHub
+### 🏛️ Diretrizes & Metodologia de Trabalho
 
-<div align="center">
-
-  <!-- GITHUB STATS & TOP LANGS VIA GITHUB-STATS-EXTENDED -->
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=bersou&show_icons=true&theme=transparent&hide_border=true&title_color=ff6a00&icon_color=ff8a1f&text_color=f4f4f4&bg_color=0c0f12&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=bersou&layout=compact&theme=transparent&hide_border=true&title_color=ff6a00&text_color=f4f4f4&bg_color=0c0f12&langs_count=6" alt="Top Languages" />
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <h4>🔍 Data-Driven Mindset</h4>
+      <p style="font-size: 13px; color: #777;">
+        Decisões de produto e engenharia fundamentadas em dados estruturados, métricas e análise preditiva.
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>⚡ Código Limpo & Modular</h4>
+      <p style="font-size: 13px; color: #777;">
+        Componentes reutilizáveis, tipagem estrita com TypeScript e arquitetura manutenível e escalável.
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>🚀 Automação & Eficiência</h4>
+      <p style="font-size: 13px; color: #777;">
+        Otimização de rotinas, integração de serviços e interfaces modernas focadas na experiência do usuário.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -300,5 +339,5 @@
 
 <!-- FOOTER BANNER -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080b,45:111519,85:ff6a00,100:ff8a1f&height=120&section=footer" alt="Footer Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080b,40:111519,80:ff6a00,100:ff8a1f&height=120&section=footer" alt="Footer Banner" />
 </p>
